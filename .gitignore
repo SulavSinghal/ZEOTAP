@@ -1,0 +1,22 @@
+# ========================
+# Python (Backend Engine)
+# ========================
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# ========================
+# React (Frontend UI)
+# ========================
+node_modules/
+dist/
+build/
+.env.local
+
+# ========================
+# OS/System Files
+# ========================
+.DS_Store
+Thumbs.db
