@@ -1,6 +1,7 @@
-fastapi
-uvicorn
-redis
-motor
-psycopg[binary]
-sqlalchemy
+fastapi==0.104.1
+uvicorn==0.24.0.post1
+redis==5.0.1
+motor==3.4.0
+pymongo==4.6.0
+psycopg[binary]==3.3.3
+sqlalchemy==2.0.23
